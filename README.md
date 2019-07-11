@@ -1,2 +1,2 @@
 # git-problem
-git使用日常记录
+git问题记录
